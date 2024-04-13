@@ -11,9 +11,11 @@
             "id": "17af24f6af1a0bf5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/profile/logo.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/profile/logo.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/profile/logo.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/profile/logo.png"
+                "file": "README.md"
               }
             }
           }
@@ -144,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17af24f6af1a0bf5",
+  "active": "136061ef9e2fd609",
   "lastOpenFiles": [
-    "images/profile/profile.jpg",
+    "screenshot.png",
+    "CHANGELOG.md",
     "images/profile/logo.png",
+    "images/profile/profile.jpg",
     "README.md",
     "images/profile",
     "images/새 폴더",
