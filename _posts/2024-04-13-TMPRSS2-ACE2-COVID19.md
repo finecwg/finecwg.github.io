@@ -21,7 +21,7 @@ https://doi.org/10.1016/j.isci.2021.102254
 - Camostat blocks TMPRSS2-mediated cleavage of SARS-CoV-2 Spike
 - Androgen deprivation or AR antagonists attenuate SARS-CoV-2 Spike-mediated cell entry
 
-![Untitled](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled.png)
+![Untitled](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled.png)
 
 # Summary
 
@@ -71,9 +71,9 @@ ACE2: zinc-dependent metalloprotease - high expression at heart, testis, kidney
 
 ## Systemic androgen deprivation affects TMPRSS2 and ACE2 expression in mice
 
-![Untitled](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%201.png)
+![Untitled](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 1.png)
 
-![Figure 1. Effect of androgen deprivation by castration on the expression of TMPRSS2 and ACE2 in adult male mice](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%202.png)
+![Figure 1. Effect of androgen deprivation by castration on the expression of TMPRSS2 and ACE2 in adult male mice](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 2.png)
 
 Figure 1. Effect of androgen deprivation by castration on the expression of TMPRSS2 and ACE2 in adult male mice
 
@@ -91,9 +91,9 @@ Figure 1. Effect of androgen deprivation by castration on the expression of TMPR
 
 ## AR regulates TMPRSS2 and ACE2 expression in human prostate and lung cells
 
-![Untitled](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%203.png)
+![Untitled](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 3.png)
 
-![Figure 2. AR-mediated transcriptional regulation of TMPRSS2 and ACE2 in human prostate and lung cells](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%204.png)
+![Figure 2. AR-mediated transcriptional regulation of TMPRSS2 and ACE2 in human prostate and lung cells](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 4.png)
 
 Figure 2. AR-mediated transcriptional regulation of TMPRSS2 and ACE2 in human prostate and lung cells
 
@@ -109,9 +109,9 @@ Figure 2. AR-mediated transcriptional regulation of TMPRSS2 and ACE2 in human pr
 
 ## TMPRSS2 interacts with ACE2 in prostate and lung cells
 
-![Untitled](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%205.png)
+![Untitled](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 5.png)
 
-![Figure 3. TMPRSS2 physically interacts with ACE2 in prostate and lung cells](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%206.png)
+![Figure 3. TMPRSS2 physically interacts with ACE2 in prostate and lung cells](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 6.png)
 
 Figure 3. TMPRSS2 physically interacts with ACE2 in prostate and lung cells
 
@@ -129,9 +129,9 @@ Figure 3. TMPRSS2 physically interacts with ACE2 in prostate and lung cells
 
 ## TMPRSS2 inhibition blocks S priming without affecting its interaction with ACE2
 
-![Untitled](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%207.png)
+![Untitled](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 7.png)
 
-![Figure 4. TMPRSS2 in complex with ACE2 cleaves SARS-CoV-2 Spike protein](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%208.png)
+![Figure 4. TMPRSS2 in complex with ACE2 cleaves SARS-CoV-2 Spike protein](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 8.png)
 
 Figure 4. TMPRSS2 in complex with ACE2 cleaves SARS-CoV-2 Spike protein
 
@@ -155,9 +155,9 @@ Figure 4. TMPRSS2 in complex with ACE2 cleaves SARS-CoV-2 Spike protein
 
 ## Camostat alone or in combination with AR-directed therapies reduces SARS-2-S pseudovirus entry into prostate and lung cells
 
-![Untitled](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%209.png)
+![Untitled](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 9.png)
 
-![Figure 5. AR-targeted therapies in combination with camostat attenuates the entry of pseudotype SARS-CoV-2 into the host cells](2024-04-13-TMPRSS2-ACE2-COVID19/Untitled%2010.png)
+![Figure 5. AR-targeted therapies in combination with camostat attenuates the entry of pseudotype SARS-CoV-2 into the host cells](/_posts/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 10.png)
 
 Figure 5. AR-targeted therapies in combination with camostat attenuates the entry of pseudotype SARS-CoV-2 into the host cells
 
