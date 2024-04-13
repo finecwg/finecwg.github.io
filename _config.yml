@@ -23,11 +23,11 @@ name                     : "Won-Gyung"
 description              : "I'm Won-Gyung Choi"
 url                      : "https://finecwg.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "finecwg/finecwg.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/images/profile/logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/images/profile/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -42,7 +42,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : "github-light"
-    issue_term           : # "pathname" (default)
+    issue_term           : "pathname" # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
@@ -70,12 +70,12 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : false # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : "b18d6c536eb2343c0" # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
-bing_site_verification   : ###
-naver_site_verification  : ###
+google_site_verification : "YcQrL4Q717y5HxT7JcKzV832SZgHNfUxKEleJLlRyQg"
+bing_site_verification   : "70E99B04EE89571BB345E465701EBEDA"
+naver_site_verification  : "7bddb4c9d16fddbf8f86bbe5ef7dea4864ac356f"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -96,15 +96,15 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-VC6KSWY70B"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "finecwg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an undergraduate researcher"
   location         : "Seoul, South Korea"
