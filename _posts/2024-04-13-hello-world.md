@@ -2,7 +2,7 @@
 layout: single
 title: "Hello World!"
 categories: Others
-tag: others
+tag: [others, others2]
 ---
 
 ```python
