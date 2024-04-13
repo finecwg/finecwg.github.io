@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/wongyung0102"
 
- Site Footer
+ # Site Footer
  footer:
    links:
     - label: "Email"
