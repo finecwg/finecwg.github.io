@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae20326ca63a4f33",
+        "id": "d01acfca80dfa62e",
         "type": "tabs",
         "children": [
           {
-            "id": "19e245cd0ac86ba8",
+            "id": "17af24f6af1a0bf5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/profile/logo.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "images/profile/logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "images/profile/logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "images/profile/logo.png"
               }
             }
           }
@@ -146,9 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19e245cd0ac86ba8",
+  "active": "17af24f6af1a0bf5",
   "lastOpenFiles": [
+    "images/profile/profile.jpg",
     "images/profile/logo.png",
+    "README.md",
     "images/profile",
     "images/새 폴더",
     "images",
