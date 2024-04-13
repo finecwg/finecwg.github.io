@@ -9,8 +9,8 @@ sidebar:
     nav: "docs"
 ---
 
-**[Notice]**  GitHub Blog Notice Check
-{" .notice--danger}
+**[Notice]**  [Notice test](https://google.com)
+{: .notice--danger}
 
 <div class="notice--success">
 <h4>Notice.</h4>
@@ -22,7 +22,7 @@ sidebar:
 </div>
 
 
-[Button test](https://google.com){: .bin .bin--danger}
+[Button test](https://google.com){: .btn .btn--danger}
 
 
 # toc test
