@@ -1,7 +1,7 @@
 ---
 title: "Category"
 layout: categories
-permalinnk: /categories/
+permalink: /categories/
 autho_profile: true
 sidebar_main: true
 ---
