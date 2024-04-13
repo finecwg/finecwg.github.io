@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Won-Gyung"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Won-Gyung"
+subtitle                 : "" # site tagline that appears below site title in masthead
+name                     : "Won-gyung"
 description              : "I'm Won-Gyung Choi"
 url                      : "https://finecwg.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -27,12 +27,12 @@ repository               : "finecwg/finecwg.github.io" # GitHub username/repo-na
 teaser                   : "/images/profile/logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/profile/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "discus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "github-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -284,8 +284,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
 
 date_format: "%Y-%m-%d"
