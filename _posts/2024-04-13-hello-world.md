@@ -9,6 +9,13 @@ sidebar:
     nav: "docs"
 ---
 
+# toc test
+## toc test
+```python
+print("Hello, World!")
+```
+
+
 **[Notice]**  [Notice test](https://google.com)
 {: .notice--danger}
 
@@ -21,12 +28,4 @@ sidebar:
 </ul>
 </div>
 
-
 [Button test](https://google.com){: .btn .btn--danger}
-
-
-# toc test
-## toc test
-```python
-print("Hello, World!")
-```
