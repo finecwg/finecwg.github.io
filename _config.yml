@@ -74,7 +74,7 @@ google:
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification : "YcQrL4Q717y5HxT7JcKzV832SZgHNfUxKEleJLlRyQg"
-bing_site_verification   : ###
+bing_site_verification   : "70E99B04EE89571BB345E465701EBEDA"
 naver_site_verification  : "7bddb4c9d16fddbf8f86bbe5ef7dea4864ac356f"
 yandex_site_verification :
 baidu_site_verification  :
@@ -96,15 +96,15 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-VC6KSWY70B"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "finecwg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an undergraduate researcher"
   location         : "Seoul, South Korea"
