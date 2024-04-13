@@ -4,6 +4,9 @@ title: "Hello World!"
 categories: Others
 tag: [others, others2]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 
