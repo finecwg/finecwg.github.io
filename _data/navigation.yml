@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Profile"
-    url: /profile
+    url: /profile/
   - title: "Category"
     url: /category/
   - title: "Tag"
@@ -11,7 +11,7 @@ docs:
   - title: "Sitemap"
     children:
       - title: "Profile"
-        url: /profile
+        url: /profile/
       - title: "Category"
         url: /category/
       - title: "Tag"
