@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Won-gyung"
+  name             : "Won-gyung Choi"
   avatar           : "/images/profile/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an undergraduate researcher"
+  bio              : "Biomedical Informatics"
   location         : "Seoul, South Korea"
   email            : # "woncho@uni.minerva.edu"
   links:
