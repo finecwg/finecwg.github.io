@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "12d21f43154bef3c",
+        "id": "d01acfca80dfa62e",
         "type": "tabs",
         "children": [
           {
-            "id": "7f3b87de7413d51b",
+            "id": "17af24f6af1a0bf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_pages/category-archive.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_pages/category-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_pages/category-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_pages/category-archive.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,36 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f3b87de7413d51b",
+  "active": "17af24f6af1a0bf5",
   "lastOpenFiles": [
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 9.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 8.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 7.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 6.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 5.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 4.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 2.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 3.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 1.png",
     "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 10.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 2.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 1.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 3.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 6.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 4.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 5.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 7.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 8.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 9.png",
     "images/2024-04-13-TMPRSS2-ACE2-COVID19",
     "images/profile/2024-04-13-TMPRSS2-ACE2-COVID19",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID19",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID19.md",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID192.md",
+    "_posts/Targeting androgen regulation of TMPRSS2 and ACE2  255d168c03dd46ec85ab96053b7c6e0a.md",
     "_posts/Targeting androgen regulation of TMPRSS2 and ACE2  255d168c03dd46ec85ab96053b7c6e0a",
     "Pasted.md",
-    "_posts/2024-04-13-hello-world.md",
-    "_pages/404.md",
-    "_pages/Untitled.md",
-    "Untitled.md",
-    "_pages/category-archive.md",
+    "_posts/2024-04-13-.md",
+    "_posts/Untitled.md",
     "_pages/search.md",
     "google2aeec31957ad220d.html",
+    "_pages/404.md",
     "_pages/tag-archive.md",
+    "_posts/2024-04-13-hello-world.md",
     "_posts",
     "README.md",
+    "_pages/category-archive.md",
     "_pages",
     "CHANGELOG.md",
     "images/profile",
