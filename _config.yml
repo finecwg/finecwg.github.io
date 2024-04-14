@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Won-Gyung"
+title                    : "[Won-gyung]"
 title_separator          : "|"
 subtitle                 : "" # site tagline that appears below site title in masthead
-name                     : "Won-gyung"
-description              : "I'm Won-Gyung Choi"
+name                     : "Won-gyung Choi"
+description              : "Biomedical Informatics"
 url                      : "https://finecwg.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "finecwg/finecwg.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
