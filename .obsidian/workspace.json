@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d01acfca80dfa62e",
+        "id": "12d21f43154bef3c",
         "type": "tabs",
         "children": [
           {
-            "id": "17af24f6af1a0bf5",
+            "id": "7f3b87de7413d51b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_pages/category-archive.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/category-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/category-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_pages/category-archive.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,41 +138,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17af24f6af1a0bf5",
+  "active": "7f3b87de7413d51b",
   "lastOpenFiles": [
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 10.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 2.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 1.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 3.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 6.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 4.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 5.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 7.png",
+    "images/2024-04-14-GSK3-neural-development/hur2010.pdf",
+    "images/2024-04-14-GSK3-neural-development/Untitled 3.png",
+    "images/2024-04-14-GSK3-neural-development/Untitled 1.png",
+    "images/2024-04-14-GSK3-neural-development/Untitled 2.png",
+    "images/2024-04-14-GSK3-neural-development/Untitled 5.png",
+    "images/2024-04-14-GSK3-neural-development/Untitled 4.png",
+    "images/2024-04-14-GSK3-neural-development/Untitled.png",
+    "images/2024-04-14-GSK3-neural-development/Untitled 6.png",
+    "images/2024-04-14-GSK3-neural-development",
+    "_posts/2024-04-14-GSK3-neural-development.md",
     "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled.png",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 8.png",
     "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 9.png",
+    "images/2024-04-13-TMPRSS2-ACE2-COVID19/Untitled 8.png",
     "images/2024-04-13-TMPRSS2-ACE2-COVID19",
     "images/profile/2024-04-13-TMPRSS2-ACE2-COVID19",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID19",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID19.md",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID192.md",
-    "_posts/Targeting androgen regulation of TMPRSS2 and ACE2  255d168c03dd46ec85ab96053b7c6e0a.md",
     "_posts/Targeting androgen regulation of TMPRSS2 and ACE2  255d168c03dd46ec85ab96053b7c6e0a",
     "Pasted.md",
-    "_posts/2024-04-13-.md",
-    "_posts/Untitled.md",
+    "_posts/2024-04-13-hello-world.md",
+    "_pages/404.md",
+    "_pages/Untitled.md",
+    "Untitled.md",
+    "_pages/category-archive.md",
     "_pages/search.md",
     "google2aeec31957ad220d.html",
-    "_pages/404.md",
     "_pages/tag-archive.md",
-    "_posts/2024-04-13-hello-world.md",
     "_posts",
     "README.md",
-    "_pages/category-archive.md",
     "_pages",
     "CHANGELOG.md",
     "images/profile",
-    "images/새 폴더",
-    "images"
+    "images/새 폴더"
   ]
 }
