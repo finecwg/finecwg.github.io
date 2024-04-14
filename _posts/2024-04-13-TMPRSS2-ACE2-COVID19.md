@@ -4,6 +4,8 @@ title: "Targeting androgen regulation of TMPRSS2 and ACE2 as a therapeutic strat
 categories: Paper_Reviews
 tags: [paper_reviews, Articles, COVID-19, endocrine, viriology]
 toc: true
+toc_sticky: true
+toc_label: "TMPRSS2-ACE2-COVID19"
 author_profile: false
 sidebar:
     nav: "docs"

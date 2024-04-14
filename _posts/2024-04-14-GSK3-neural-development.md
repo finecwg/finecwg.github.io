@@ -4,6 +4,8 @@ title: "GSK3 signalling in neural development"
 categories: Paper_Reviews
 tags: [paper_reviews, Articles, GSK3, neuroscience]
 toc: true
+toc_sticky: true
+toc_label: "GSK3 signalling in neural development"
 author_profile: false
 sidebar:
     nav: "docs"

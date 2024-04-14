@@ -5,6 +5,7 @@ categories: Others
 tag: [others, others2]
 toc: true
 toc_sticky: true
+toc_label: "Hello World!"
 author_profile: false
 sidebar:
     nav: "docs"
