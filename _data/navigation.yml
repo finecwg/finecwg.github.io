@@ -4,8 +4,8 @@ main:
     url: /profile/
   - title: "Category"
     url: /categories/
-  - title: "Tag"
-    url: /tags/
+#  - title: "Tag"
+#    url: /tags/
 
 docs:
   - title: "Sitemap"
@@ -14,8 +14,8 @@ docs:
         url: /profile/
       - title: "Category"
         url: /categories/
-      - title: "Tag"
-        url: /tags/
+#      - title: "Tag"
+#        url: /tags/
   - title: "Follow"
     children:
       - title: "Email"
