@@ -3,6 +3,8 @@ layout: single
 permalink: /profile/
 author_profile: true
 classes: wide
+sidebar:
+    nav: "sidebar-category"
 ---
 
 <h3>Work Experience</h3>
