@@ -7,16 +7,64 @@ main:
 #  - title: "Tag"
 #    url: /tags/
 
-docs:
-  - title: "Sitemap"
+sidebar-category:
+  - title: "Background"
     children:
-      - title: "Profile"
-        url: /profile/
-      - title: "Category"
-        url: /categories/
-#      - title: "Tag"
-#        url: /tags/
-  - title: "Follow"
+      - title: "Biology"
+        url: "/biology"
+        category: "biology"
+
+      - title: "Computer Science"
+        url: "/computer-science"
+        category: "computer-science"
+
+      - title: "Others"
+        url: "/background-others"
+        category: "background-others"
+
+  - title: "Biomedical Informatics"
+    children:
+      - title: "Bioinformatics"
+        url: "/bioinformatics"
+        category: "bioinformatics"
+
+      - title: "Medical Informatics"
+        url: "/medical-informatics"
+        category: "medical-informatics"
+
+      - title: "Public Health Informatics"
+        url: "/public-health-informatics"
+        category: "public-health-informatics"
+
+      - title: "Veterinary Informatics"
+        url: "/veterinary-informatics"
+        category: "veterinary-informatics"
+
+  - title: "Paper Reviews"
+    children: 
+      - title: "Basic Biomedical Science"
+        url: "/reviews-basic-biomedical-science"
+        category: "reviews-basic-biomedical-science"
+
+      - title: "Biotechnology"
+        url: "/reviews-biotechnology"
+        category: "reviews-biotechnology"
+
+      - title: "Paper Archives"
+        url: "/paper-archives"
+        category: "paper-archives"
+
+  - title: "Daily"
+    children:
+      - title: "☕ Coffee"
+        url: "/coffee"
+        category: "coffee"
+
+      - title: "etc"
+        url: "/etc"
+        category: "daily-etc"
+
+  - title: "Follow me!"
     children:
       - title: "Email"
         url: mailto:woncho@uni.minerva.edu

@@ -1,14 +1,12 @@
 ---
 layout: single
 title: "Hello World!"
-categories: Others
+categories: daily-etc
 tag: [others, others2]
 toc: true
 toc_sticky: true
 toc_label: "Hello World!"
 author_profile: false
-sidebar:
-    nav: "docs"
 ---
 
 # toc test

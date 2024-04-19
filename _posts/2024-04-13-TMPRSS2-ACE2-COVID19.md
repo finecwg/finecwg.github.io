@@ -1,14 +1,12 @@
 ---
 layout: single
 title: "Targeting androgen regulation of TMPRSS2 and ACE2 as a therapeutic strategy to combat COVID-19"
-categories: Paper_Reviews
+categories: reviews-biotechnology
 tags: [paper_reviews, Articles, COVID-19, endocrine, viriology]
 toc: true
 toc_sticky: true
 toc_label: "TMPRSS2-ACE2-COVID19"
 author_profile: false
-sidebar:
-    nav: "docs"
 ---
 
 *this is the re-uploaded version of my previous [Naver Blog Posting](https://blog.naver.com/finecwg/222657213603) at 2022-02-25*

@@ -1,14 +1,12 @@
 ---
 layout: single
 title: "[Population Genetics] bcftools concat: unequal number of samples - dealing with Y chromosome"
-categories: Population_Genetics
+categories: public-health-informatics
 tags: [population_genetics, bioinformatics, GWAS, bcftools]
 toc: true
 toc_sticky: true
 toc_label: "bcftools dealing with Y chromosome"
 author_profile: false
-sidebar:
-    nav: "docs"
 ---
 
 # 0. Introduction

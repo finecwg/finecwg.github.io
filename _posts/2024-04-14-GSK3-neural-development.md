@@ -1,14 +1,12 @@
 ---
 layout: single
 title: "GSK3 signalling in neural development"
-categories: Paper_Reviews
+categories: reviews-basic-biomedical-science
 tags: [paper_reviews, Articles, GSK3, neuroscience]
 toc: true
 toc_sticky: true
 toc_label: "GSK3 signalling in neural development"
 author_profile: false
-sidebar:
-    nav: "docs"
 ---
 
 *this is the re-uploaded version of my previous [Naver Blog Posting](https://blog.naver.com/finecwg/222673582792) at 2022-03-15*
