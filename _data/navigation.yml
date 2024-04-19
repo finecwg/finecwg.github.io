@@ -64,19 +64,6 @@ sidebar-category:
         url: "/etc"
         category: "daily-etc"
 
-  - title: "Follow me!"
-    children:
-      - title: "Email"
-        url: mailto:woncho@uni.minerva.edu
-      - title: "LinkedIn"
-        url: https://www.linkedin.com/in/wongyung-choi-790339296
-      - title: "Instagram"
-        url: https://instagram.com/wongyung0102
-      - title: "GitHub"
-        url: https://github.com/finecwg
-      - title: "Naver Blog"
-        url: https://blog.naver.com/finecwg
-
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
