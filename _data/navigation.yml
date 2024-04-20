@@ -2,8 +2,8 @@
 main:
   - title: "Profile"
     url: /profile/
-  - title: "Category"
-    url: /categories/
+#  - title: "Category"
+#    url: /categories/
 #  - title: "Tag"
 #    url: /tags/
 
@@ -59,6 +59,10 @@ sidebar-category:
       - title: "☕ Coffee"
         url: "/coffee"
         category: "coffee"
+
+      - title: "📖 Books"
+        url: "/books"
+        category: "books"
 
       - title: "etc"
         url: "/etc"
