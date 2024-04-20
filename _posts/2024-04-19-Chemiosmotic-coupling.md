@@ -12,6 +12,7 @@ author_profile: false
 *this is the re-uploaded version of my previous [Naver Blog Posting](https://blog.naver.com/finecwg/222687996460) at 2022-03-31*
 
 Mitchell, P. (2011). Chemiosmotic coupling in oxidative and photosynthetic phosphorylation. Biochimica et Biophysica Acta (BBA)-Bioenergetics, 1807(12), 1507-1538.Chicago
+[Paper Link](https://www.sciencedirect.com/science/article/pii/S0005272811002283)
 
 # 1. Introduction
 

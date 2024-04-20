@@ -12,6 +12,8 @@ author_profile: false
 *this is the re-uploaded version of my previous [Naver Blog Posting](https://blog.naver.com/finecwg/222673582792) at 2022-03-15*
 
 Hur, E. M., & Zhou, F. Q. (2010). GSK3 signalling in neural development. Nature Reviews Neuroscience, 11(8), 539-551.
+[Paper Link](https://www.nature.com/articles/nrn2870)
+
 
 # Abstract
 

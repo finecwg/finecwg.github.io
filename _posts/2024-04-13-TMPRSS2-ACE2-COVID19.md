@@ -11,8 +11,8 @@ author_profile: false
 
 *this is the re-uploaded version of my previous [Naver Blog Posting](https://blog.naver.com/finecwg/222657213603) at 2022-02-25*
 
-Deng, Q., ur Rasool, R., Russell, R. M., Natesan, R., & Asangani, I. A. (2021). Targeting androgen regulation of TMPRSS2 and ACE2 as a therapeutic strategy to combat COVID-19. IScience, 24(3), 102254.
-https://doi.org/10.1016/j.isci.2021.102254
+Deng, Q., ur Rasool, R., Russell, R. M., Natesan, R., & Asangani, I. A. (2021). Targeting androgen regulation of TMPRSS2 and ACE2 as a therapeutic strategy to combat COVID-19. IScience, 24(3).
+[text](https://www.sciencedirect.com/science/article/pii/S2589004221002224)
 
 # Highlights
 
