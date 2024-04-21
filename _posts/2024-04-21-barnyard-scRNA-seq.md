@@ -67,7 +67,7 @@ The algorithm for classifying a barcode is as follows:
 3. Any barcode where both mouse and human counts exceed their thresholds is classified as a multiplet.
 </aside>
 
-(source: https://kb.10xgenomics.com/hc/en-us/articles/115003517183-How-does-cellranger-count-identify-multiplets)
+(source: [10X Genomics](https://kb.10xgenomics.com/hc/en-us/articles/115003517183-How-does-cellranger-count-identify-multiplets))
 
 In other words, it **does not accurately distinguish human/mouse/multiplet cells mathematically or algorithmically**, but rather cuts off at the 10th percentile (top 90%) for identification. Crucially, the documentation states:
 
