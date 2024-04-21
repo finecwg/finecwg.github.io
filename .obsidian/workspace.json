@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2e6f1adfb4fcf3",
+        "id": "e15f2ddada6617e3",
         "type": "tabs",
         "children": [
           {
-            "id": "b4e06915e0bf9d8d",
+            "id": "91862a4fec504a62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-21-physicians-ML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-21-physicians-ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-21-physicians-ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-04-21-physicians-ML.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,26 +139,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4e06915e0bf9d8d",
+  "active": "91862a4fec504a62",
   "lastOpenFiles": [
-    "_posts/2024-04-21-ddqc.md",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421162105.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161921.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161814.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161804.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161617.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161614.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161106.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161050.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161011.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421160415.png",
+    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421155816.png",
+    "images/2024-04-21-barnyard-scRNA-seq",
+    "images/새 폴더",
+    "_posts/2024-04-21-barnyard-scRNA-seq.md",
+    "_posts/temp-image-attachments",
     "_posts/2024-04-21-physicians-ML.md",
+    "_posts/2024-04-21-ddqc.md",
     "_posts/2024-04-20-WNT-GBM.md",
     "_posts/2024-04-14-bcftools-Y-chromosome.md",
     "_posts/2024-04-13-hello-world.md",
-    "images/favicon.ico/ms-icon-70x70.png",
-    "images/favicon.ico/ms-icon-310x310.png",
-    "images/favicon.ico/ms-icon-150x150.png",
-    "images/favicon.ico/ms-icon-144x144.png",
     "images/favicon.ico/manifest.json",
     "images/favicon.ico/favicon.ico",
-    "images/favicon.ico/favicon-96x96.png",
-    "images/favicon.ico/favicon-32x32.png",
-    "images/favicon.ico/favicon-16x16.png",
     "images/favicon.ico/browserconfig.xml",
-    "images/favicon.ico/apple-icon.png",
-    "images/favicon.ico/apple-icon-precomposed.png",
-    "images/favicon.ico/apple-icon-76x76.png",
     "images/favicon.ico",
     "_pages/category-books.md",
     "Ulsan Genome Project - GWAS pipeline (SNU).md",
@@ -175,11 +172,8 @@
     "images/2024-04-14-GSK3-neural-development",
     "_posts/2024-04-14-GSK3-neural-development.md",
     "images/2024-04-13-TMPRSS2-ACE2-COVID19",
-    "images/profile/2024-04-13-TMPRSS2-ACE2-COVID19",
-    "_posts/2024-04-13-TMPRSS2-ACE2-COVID19",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID19.md",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID192.md",
-    "_posts/Targeting androgen regulation of TMPRSS2 and ACE2  255d168c03dd46ec85ab96053b7c6e0a",
     "Pasted.md",
     "_pages/404.md",
     "_pages/Untitled.md",
