@@ -11,8 +11,12 @@
             "id": "91862a4fec504a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-21-veterinary-informatics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-04-21-veterinary-informatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-04-21-veterinary-informatics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-04-21-veterinary-informatics.md"
+              }
             }
           }
         ],
@@ -141,6 +149,13 @@
   },
   "active": "91862a4fec504a62",
   "lastOpenFiles": [
+    "images/2024-04-21-veterinary-informatics/Pasted image 20240421175326.png",
+    "images/2024-04-21-veterinary-informatics/Pasted image 20240421174842.png",
+    "images/2024-04-21-veterinary-informatics",
+    "images/새 폴더",
+    "_posts/temp-image-attachments/Pasted image 20240421175326.png",
+    "_posts/temp-image-attachments/Pasted image 20240421174842.png",
+    "_posts/2024-04-21-veterinary-informatics.md",
     "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421162105.png",
     "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161921.png",
     "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161814.png",
@@ -148,12 +163,7 @@
     "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161617.png",
     "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161614.png",
     "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161106.png",
-    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161050.png",
-    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421161011.png",
-    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421160415.png",
-    "images/2024-04-21-barnyard-scRNA-seq/Pasted image 20240421155816.png",
     "images/2024-04-21-barnyard-scRNA-seq",
-    "images/새 폴더",
     "_posts/2024-04-21-barnyard-scRNA-seq.md",
     "_posts/temp-image-attachments",
     "_posts/2024-04-21-physicians-ML.md",
@@ -171,7 +181,6 @@
     "images/2024-04-14-GSK3-neural-development/hur2010.pdf",
     "images/2024-04-14-GSK3-neural-development",
     "_posts/2024-04-14-GSK3-neural-development.md",
-    "images/2024-04-13-TMPRSS2-ACE2-COVID19",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID19.md",
     "_posts/2024-04-13-TMPRSS2-ACE2-COVID192.md",
     "Pasted.md",
