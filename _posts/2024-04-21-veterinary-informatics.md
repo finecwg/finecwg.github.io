@@ -142,3 +142,5 @@ To fully harness the potential of veterinary informatics, we need to address sev
 - Engaging with regulatory agencies, such as the U.S. Food and Drug Administration (FDA) and the European Medicines Agency (EMA), to harmonize data requirements and streamline approval processes for veterinary products can help to incentivize investment and innovation in the field.
 
 By pursuing these strategic initiatives and working together across disciplinary and institutional boundaries, the veterinary informatics community can overcome current challenges and unlock the full potential of data-driven medicine to improve the health and well-being of animals and humans alike. With sustained effort and collaboration, we can build a future in which insights from veterinary data inform clinical practice, guide public health interventions, and drive scientific discovery across the biomedical spectrum.
+
+*This post was written with the help of Claude 3 Opus.*
