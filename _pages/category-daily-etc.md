@@ -1,7 +1,7 @@
 ---
 title: "etc"
 layout: archive
-permalink: /daily-etc
+permalink: /etc
 author_profile: true
 sidebar:
     nav: "sidebar-category"
