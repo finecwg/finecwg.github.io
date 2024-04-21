@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-21-ddqc.md",
+                "file": "_posts/2024-04-21-physicians-ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bb9f8cf46b6feea8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-21-ddqc.md",
+                "file": "_posts/2024-04-21-physicians-ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-21-ddqc.md",
+                "file": "_posts/2024-04-21-physicians-ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-21-ddqc.md"
+                "file": "_posts/2024-04-21-physicians-ML.md"
               }
             }
           }
@@ -148,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "136061ef9e2fd609",
+  "active": "b4e06915e0bf9d8d",
   "lastOpenFiles": [
-    "_posts/2024-04-20-WNT-GBM.md",
     "_posts/2024-04-21-ddqc.md",
+    "_posts/2024-04-21-physicians-ML.md",
+    "_posts/2024-04-20-WNT-GBM.md",
     "_posts/2024-04-14-bcftools-Y-chromosome.md",
     "_posts/2024-04-13-hello-world.md",
     "images/favicon.ico/ms-icon-70x70.png",
