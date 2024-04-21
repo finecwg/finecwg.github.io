@@ -54,7 +54,8 @@ From left to right: barcode, count mapped to GRCh38, count mapped to mm10, and t
 The problem with this method is that I am not satisfied with the algorithm that maps multi-species cell barcodes to each species. 
 
 The algorithm used by `cellranger count` to distinguish multi-species is as follows:
-```text
+
+<aside>
 This allows a subset of multiplets to be detected on the basis that some reads with a given cell barcode will align to one reference genome, and a different set of reads with the same cell barcode will align to the other reference genome. In this way, individual barcodes can be assigned to either or both species.
 
 The algorithm for classifying a barcode is as follows:
@@ -64,7 +65,8 @@ The algorithm for classifying a barcode is as follows:
 2. Take the 10th percentile of all barcodes where (human>mouse UMI counts). That becomes the threshold for calling a barcode a human cell.
     
 3. Any barcode where both mouse and human counts exceed their thresholds is classified as a multiplet.
-```
+</aside>
+
 (source: https://kb.10xgenomics.com/hc/en-us/articles/115003517183-How-does-cellranger-count-identify-multiplets)
 
 In other words, it **does not accurately distinguish human/mouse/multiplet cells mathematically or algorithmically**, but rather cuts off at the 10th percentile (top 90%) for identification. Crucially, the documentation states:
