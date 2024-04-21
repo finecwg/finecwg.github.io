@@ -12,7 +12,8 @@ author_profile: false
 Veterinary informatics, the application of biomedical informatics techniques to veterinary data, has the potential to revolutionize both animal and human health. Despite lagging behind human medicine in terms of data standardization and accessibility, recent advances in veterinary informatics are paving the way for exciting new applications.
 
 source:
-Veterinary informatics: forging the future between veterinary medicine, human medicine, and One Health initiatives—a joint paper by the Association for Veterinary Informatics (AVI) and the CTSA One Health Alliance (COHA)
+
+VLustgarten, J. L., Zehnder, A., Shipman, W., Gancher, E., & Webb, T. L. (2020). Veterinary informatics: forging the future between veterinary medicine, human medicine, and One Health initiatives—a joint paper by the Association for Veterinary Informatics (AVI) and the CTSA One Health Alliance (COHA). JAMIA open, 3(2), 306-317.
 [Link](https://academic.oup.com/jamiaopen/article/3/2/306/5819226)
 
 ## The State of Veterinary Data
