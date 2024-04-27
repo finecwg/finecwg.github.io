@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Why I Love Specialty Coffee"
-categories:
+categories: coffee
 tags: [coffee, specialty coffee]
 toc: true
 toc_sticky: true
