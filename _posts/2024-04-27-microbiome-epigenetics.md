@@ -9,13 +9,13 @@ toc_label: "microbiome-mediated epigenetic regulation in brain"
 author_profile: false
 ---
 
-_this is the re-uploaded version of my previous [Naver Blog Posting](https://blog.naver.com/finecwg/222799818594) at 2022-07-04_
+_this is the re-uploaded version of my previous [Naver Blog Posting](https:/blog.naver.com/finecwg/222799818594) at 2022-07-04_
 
 Cite: Kaur, H., Singh, Y., Singh, S., & Singh, R. B. (2021). Gut microbiome-mediated epigenetic regulation of brain disorder and application of machine learning for multi-omics data analysis. Genome
 , 64
 (4), 355-371.
 
-[Paper Link](https://cdnsciencepub.com/doi/full/10.1139/gen-2020-0136)
+[Paper Link](https:/cdnsciencepub.com/doi/full/10.1139/gen-2020-0136)
 
 # Abrstract
 
@@ -214,21 +214,21 @@ DNA methylation, post-transcriptional histone modifications, chromatin restructu
   diet, neutrients, environmental agents(toxic, pharmacologiclal factors)
   no microbiota or no change → long-lasting epigenetic modifications(affect behavior)
   - TET: DNA demethylation
-- _Clostridia_ 등
-  dietary fibers를 SCFAs로, 특히 butyrate: HDAC inhibitor
+- _Clostridia_ etc.
+  dietary fibers to SCFAs, especially butyrate: HDAC inhibitor
   ⇒enhance chromatin accessibility, activate gene expression
 - histone acetylation
 - histone methylation
-  - H3 lysine 4: gene activity 증가
+  - H3 lysine 4: gene activity increate
   - lysine 9: repression
 - gut microbiota: alterate chromatin state
-  - acetate, propionate, folate 등
+  - acetate, propionate, folate etc.
   - acetate, propionate: HDAC inhibitory activity
-  - SAM(S-adenosyl methionine) (MAT가 methione에서 이거되는거 촉매)
-    ⇒DNMT가 methyl group을 CpG로 운반 → ㅎㄷㅜㄷ 냐ㅣ두챠ㅜㅎ
+  - SAM(S-adenosyl methionine) (MAT catlyzes methione to SAM)
+    ⇒DNMT moves methyl group to CpG → gene silence
   - 5mC(5-methylcytosine, fifth base of DNA)…
 
-![Untitled](/images//Untitled 1.png)
+![Untitled](/images/Untitled 1.png)
 
 - vagus nerve in epigenetic regulation
   - vagus nerve stiulation(VNS) → hippocampal, cortical, blood epigenetic transcriptomes, epigenetically modulates neuronal plasticity, stress-response signaling genes
@@ -242,7 +242,7 @@ DNA methylation, post-transcriptional histone modifications, chromatin restructu
 
 # Application of machine learning in multi-omics data analysis
 
-![**Fig 2.** Framework for multi-omics data integration and use of advanced ML approaches to predict the health or diseased state or to find the right therapeutic strategy for an individual person](/images//Untitled 2.png)
+![**Fig 2.** Framework for multi-omics data integration and use of advanced ML approaches to predict the health or diseased state or to find the right therapeutic strategy for an individual person](/images/Untitled 2.png)
 
 **Fig 2.** Framework for multi-omics data integration and use of advanced ML approaches to predict the health or diseased state or to find the right therapeutic strategy for an individual person
 
