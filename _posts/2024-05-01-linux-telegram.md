@@ -126,6 +126,10 @@ With these steps completed, the script will now log user commands and send notif
 
 You know what? You can become a BIG BROTHER if your root. Just use `/etc/bash.bashrc` file instead of `.bashrc` or `.bash_profile`. It will allow you to monitor the bash terminal usage of all users!!
 
+This is the example of the telegram bot monitoring:
+
+![alt text](/images/2024-05-01-linux-telegram/image.png)
+
 ## Customization Possibilities
 
 This script provides a solid foundation for monitoring and logging user commands, but it can be further customized to suit your specific needs:
