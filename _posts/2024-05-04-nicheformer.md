@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Nicheformer: a foundation model for single-cell and spatial omics"
-categories: computer-science
+categories: bioinformatics
 tags: [single cell, spatial omics, bioinformatics]
 toc: true
 toc_sticky: true
@@ -159,5 +159,4 @@ Establishing standardized benchmarks will facilitate the comparison of different
 
 In conclusion, Nicheformer represents an exciting advance in the application of foundation models to spatial single-cell biology, but there is still much work to be done. By addressing the limitations and challenges outlined above, and by establishing standardized benchmarks for evaluation and comparison, we can unlock the full potential of foundation models for understanding the complex spatial organization of tissues and advancing biological discovery.
 
-
-*This post was written with the help of Claude 3 Opus.*
+_This post was written with the help of Claude 3 Opus._
