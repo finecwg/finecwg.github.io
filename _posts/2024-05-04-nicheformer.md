@@ -158,3 +158,6 @@ Developing a comprehensive suite of benchmark tasks and datasets that cover a wi
 Establishing standardized benchmarks will facilitate the comparison of different models, highlight areas for improvement, and accelerate progress in the field. It will also promote reproducibility and enable the community to build upon the most promising approaches and best practices.
 
 In conclusion, Nicheformer represents an exciting advance in the application of foundation models to spatial single-cell biology, but there is still much work to be done. By addressing the limitations and challenges outlined above, and by establishing standardized benchmarks for evaluation and comparison, we can unlock the full potential of foundation models for understanding the complex spatial organization of tissues and advancing biological discovery.
+
+
+*This post was written with the help of Claude 3 Opus.*
