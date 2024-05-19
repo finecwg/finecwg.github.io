@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Machine learning protocol with scikit-learn's pipeline"
+title: "Machine learning protocol with 'sklearn.pipeline'"
 categories: computer-science
 tags: [machine learning, scikit-learn]
 toc: true
@@ -276,8 +276,8 @@ def knn_pipeline():
 
 
     main_pipeline = Pipeline([
-        ('imputer', IterativeImputer(max_iter = 5, tol = 1e-2, n_nearest_features = 10)), 
-        ('scaler', RobustScaler()), 
+        ('imputer', IterativeImputer(max_iter = 5, tol = 1e-2, n_nearest_features = 10)),
+        ('scaler', RobustScaler()),
         ('pca', pca_for_features),
         ('estimator', GridSearchCV(estimator=KNeighborsClassifier(), param_grid=knn_params, cv=StratifiedKFold(n_splits=5, shuffle=True), n_jobs=-1))
         ]
@@ -285,8 +285,6 @@ def knn_pipeline():
 
     return main_pipeline
 ```
-
-
 
 ```python
 def svm_pipeline():
@@ -309,8 +307,6 @@ def svm_pipeline():
 
     return main_pipeline
 ```
-
-
 
 ```python
 def dt_pipeline():
@@ -335,7 +331,6 @@ def dt_pipeline():
     return main_pipeline
 ```
 
-
 ```python
 def rf_pipeline():
     rf_params = {
@@ -358,7 +353,6 @@ def rf_pipeline():
 
     return main_pipeline
 ```
-
 
 ```python
 def xgb_pipeline():
@@ -385,7 +379,6 @@ def xgb_pipeline():
 
     return main_pipeline
 ```
-
 
 ```python
 def lgbm_pipeline():
@@ -498,7 +491,7 @@ def train_sklearn(disease_no, model, score_file_name, featimp_file_name, random_
     y_predproba = main_pipeline.predict_proba(x_test)
 
     score_df = scoring(y_test, y_predproba, random_state)
-    featimp_df = featimp(main_pipeline, model, x_test, random_state) 
+    featimp_df = featimp(main_pipeline, model, x_test, random_state)
 
     export_to_csv([(score_df, score_file_name), (featimp_df, featimp_file_name)])
 ```
