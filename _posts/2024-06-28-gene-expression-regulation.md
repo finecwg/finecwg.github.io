@@ -1,3 +1,13 @@
+---
+layout: single
+title: "Gene Expression Regulation: A Comprehensive Guide"
+categories: biology
+tags: [gene expression regulation]
+toc: true
+toc_sticky: true
+toc_label: "gene expression regulation"
+author_profile: false
+---
 
 # Gene Expression Regulation: A Comprehensive Guide
 
