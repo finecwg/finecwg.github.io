@@ -7,4 +7,4 @@ sidebar:
   nav: "sidebar-category"
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pages/CV_Wongyung_Choi_241011.pdf" width="1000" height="1000" type='application/pdf'></object>
+<iframe src="https://drive.google.com/file/d/1-X3HrbzRfH7ATBQ4bgIjTP6Na5t515Bw/view?usp=sharing" style="width:718px; height:700px;" frameborder="0"></iframe>
