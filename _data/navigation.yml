@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Profile"
-    url: /profile/
+  - title: "CV"
+    url: /CV/
 #  - title: "Category"
 #    url: /categories/
 #  - title: "Tag"
@@ -41,7 +41,7 @@ sidebar-category:
         category: "veterinary-informatics"
 
   - title: "Paper Reviews"
-    children: 
+    children:
       - title: "Basic Biomedical Science"
         url: "/reviews-basic-biomedical-science"
         category: "reviews-basic-biomedical-science"
