@@ -7,4 +7,4 @@ sidebar:
   nav: "sidebar-category"
 ---
 
-<iframe src="https://drive.google.com/file/d/1-X3HrbzRfH7ATBQ4bgIjTP6Na5t515Bw/view?usp=sharing" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="https://finecwg.github.io/_pages/CV_Wongyung_Choi_241011.pdf" style="width:1000px; height:1000px;" frameborder="0"></iframe>
